@@ -1,6 +1,6 @@
 const arr = [5,1,15,25,30,200,1000]
 
-function findMax(arr) {
+function findMax(arr) { 11111
    let max=0
    for(let i=0; i<arr.length; i++) {
      if(arr[i] >max) {
